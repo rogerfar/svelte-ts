@@ -2,7 +2,9 @@
   import svelteLogo from './assets/svelte.svg'
   import Counter from './lib/Counter.svelte'
   
+  debugger;
   const test = 'Test Variable';
+  const test2 = 'Try hovering over the test variable';
 </script>
 
 <main>
